@@ -2,7 +2,7 @@
  ### 📝 Ownership Quiz 
  #### Q1. Basic Ownership In Rust, when a variable goes **out of scope**, what happens to its value? 
  a) Nothing happens, it stays in memory 
- b) The value is automatically dropped 
+ b) The value is automatically dropped
  c) The programmer must call a `free` function 
  d) The garbage collector cleans it up --- 
  #### Q2. Move Semantics What happens after this code? 
